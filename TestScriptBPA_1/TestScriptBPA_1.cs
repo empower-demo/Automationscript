@@ -17,7 +17,7 @@ namespace TestScriptBPA_1
 		/// <param name="engine">Link with SLAutomation process.</param>
 		public void Run(IEngine engine)
 		{
-			engine.GenerateInformation("Hello Vikas !");
+			engine.GenerateInformation("Hello Vikas, Welcome back !!");
 		}
 	}
 }
